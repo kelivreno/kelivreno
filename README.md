@@ -19,9 +19,9 @@
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/http.svg" target=”_blank”/>][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" target=”_blank” />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target=”_blank”/>][linkedin]
 
 <br />
 
