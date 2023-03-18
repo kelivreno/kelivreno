@@ -34,4 +34,4 @@
 
 [website]: https://kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
-[linkedin]: (https://linkedin.com/in/kelangithakim){:target="_blan"}
+[linkedin]: (https://linkedin.com/in/kelangithakim){:target="_blank"}
