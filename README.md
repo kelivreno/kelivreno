@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **with others on Flutter and React native**
 
-- 🥅2023 Goals: **Learn Matlab and AI/ML**
+- 🥅2023 Goals: **Learn Matlab, AI/ML, and continue contributing to Open Source**
 
 - 📫 How to reach me **me@kelangithakim.com**
 
