@@ -19,7 +19,7 @@
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 
-[<a href="https://kelangithakim.com/" target=”_blank><img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/http.svg"/></a>]
+<a href="https://kelangithakim.com/" target=”_blank><img alt="Personal Web" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/http.svg"/></a>
 [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg"  />]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
 <br />
@@ -35,5 +35,3 @@
 [website]: https://kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
 [linkedin]: https://linkedin.com/in/kelangithakim
-
-[![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/kelivreno){:target="_blank"}
