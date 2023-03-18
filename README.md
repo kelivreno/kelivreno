@@ -33,6 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelivreno&" alt="kelivreno" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karantondare&show_icons=true&count_private=true&theme=tokyonight)  
+
 [website]: https://kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
 [linkedin]: https://linkedin.com/in/kelangithakim
