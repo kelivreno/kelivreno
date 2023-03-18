@@ -1,4 +1,4 @@
-<h1 align="leftr">Hi Apa Kabar 👋, I'm Kelangit</h1>
+<h1 align="leftr">Hi <i>Apa Kabar</i> 👋, I'm Kelangit</h1>
 <h3 align="left">I am Frontend Web Developer! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelivreno&label=Profile%20views&color=0e75b6&style=flat" alt="kelivreno" /> </p>
