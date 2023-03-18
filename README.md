@@ -19,10 +19,9 @@
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 
-[<img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/http.svg" target=”_blank”/>][website]{:target="_blank"}
-[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" target=”_blank” />][twitter]{:target="_blank"}
-[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target=”_blank”/>][linkedin]{:target="_blank"}
-
+[<a href=" https://kelangithakim.com/" target=”_blank >[<img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/http.svg"/></a>]
+[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg"  />]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
