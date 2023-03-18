@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact: **I am a big fan of One Piece, and my favourite character is Zoro ⚔️**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,8 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelivreno&show_icons=true&locale=en" alt="kelivreno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelivreno&" alt="kelivreno" /></p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karantondare&show_icons=true&count_private=true&theme=tokyonight)  
 
 [website]: https://kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
