@@ -27,8 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Kel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelivreno&show_icons=true&count_private=true&theme=transparent)  
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelivreno&show_icons=true&locale=en&layout=compact" alt="kelivreno" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelivreno&show_icons=true&locale=en" alt="kelivreno" /></p>
