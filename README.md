@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I am a big fan of One Piece, and my favourite character is Zoro ⚔️**
 
-<h3 align="center">Connect with me:</h3>
+<p align="left">Connect with me:</h3>
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
