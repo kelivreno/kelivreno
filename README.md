@@ -18,10 +18,12 @@
 - ⚡ Fun fact: **I am a big fan of One Piece, and my favourite character is Zoro ⚔️**
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
+<p align="left">Ctrl+click to open on another tab </p>
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://linkedin.com/in/kelangithakim){:target="_blank"}
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +36,4 @@
 
 [website]: https://kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
-[linkedin]: (https://linkedin.com/in/kelangithakim target="_blank")
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[linkedin]: https://linkedin.com/in/kelangithakim
