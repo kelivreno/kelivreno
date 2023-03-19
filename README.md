@@ -1,12 +1,6 @@
 <h1 align="leftr">Hi <i>Apa Kabar</i> 👋, I'm Kelangit</h1>
 <h3 align="left">I am Frontend Web Developer! 😊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelivreno&label=Profile%20views&color=0e75b6&style=flat" alt="kelivreno"/> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelivreno" alt="kelivreno" target="_blank"/></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kelivreno" target="_blank"><img src="https://img.shields.io/twitter/follow/kelivreno?logo=twitter&style=for-the-badge" alt="kelivreno" /></a> </p>
-
 - 🔭 I’m currently working on **Fullstack web-apps**
 
 - 👯 I’m looking to collaborate on **with others on Flutter and React native**
