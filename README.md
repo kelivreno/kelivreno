@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I am a big fan of One Piece 🏴‍☠️, and my favourite character is Zoro ⚔️**
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
-<p align="left">Ctrl+click to open on another tab </p>
+<p align="left">Ctrl+click or ⌘click to open on another tab </p>
 
 [<img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />][twitter]
