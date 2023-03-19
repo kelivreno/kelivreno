@@ -34,6 +34,6 @@
 
 [website]: https://kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
-[linkedin](https://linkedin.com/in/kelangithakim){:target="_blank"}
+[linkedin](https://linkedin.com/in/kelangithakim target="_blank")
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
