@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fullstack web-apps**
 
-- 👯 I’m looking to collaborate on **with others on Flutter and React native**
+- 👯 I’m looking to collaborate **with others on Flutter and React native**
 
 - 🥅 2023 Goals: **Learn Matlab, AI/ML, and continue contributing to Open Source**
 
