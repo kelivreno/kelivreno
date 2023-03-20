@@ -32,6 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelivreno&" alt="kelivreno" /></p>
 
-[website]: https://kelangithakim.com/
+[website]: https://www.kelangithakim.com/
 [twitter]: https://twitter.com/kelivreno
 [linkedin]: https://linkedin.com/in/kelangithakim
