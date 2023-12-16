@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **me@kelangithakim.com**
 
-- ⚡ Fun fact: **I am a big fan of One Piece 🏴‍☠️, and my favourite character is Zoro ⚔️**
+- ⚡ Fun fact: **I am a big fan of One Piece 🏴‍☠️, and my favourite character is Robin 🌸**
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left">Ctrl+click or ⌘+click to open on another tab </p>
