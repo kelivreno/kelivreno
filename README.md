@@ -1,15 +1,13 @@
 <h1 align="leftr">Hi <i>Apa Kabar</i> 👋, I'm Kelangit Hakim</h1>
 <h3 align="left">I am Frontend Web Developer! 😊</h3>
 
-- 🔭 I’m currently working on **Fullstack web-apps**
+- 🔭 I’m currently working on **an AI Web App**
 
 - 👯 I’m looking to collaborate **with others on Flutter and React native**
 
-- 🥅 2023 Goals: **Learn Matlab, AI/ML, and continue contributing to Open Source**
+- 🥅 2025 Goals: **Learn Matlab, AI/ML, and continue contributing to Open Source**
 
 - 📫 How to reach me **me@kelangithakim.com**
-
-- ⚡ Fun fact: **I am a big fan of One Piece 🏴‍☠️, and my favourite character is Robin 🌸**
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left">Ctrl+click or ⌘+click to open on another tab </p>
