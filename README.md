@@ -1,5 +1,5 @@
 <h1 align="leftr">Hi <i>Apa Kabar</i> 👋, I'm Kelangit Hakim</h1>
-<h3 align="left">I am AI Developer! 😊</h3>
+<h3 align="left">I'm an AI Developer! 😊</h3>
 
 - 🔭 I’m currently working on **an AI Web App**
 
